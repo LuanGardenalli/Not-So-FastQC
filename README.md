@@ -8,7 +8,7 @@ Not-So-FastQC is a high throughput sequence data quality control software inspir
 
 ## Using the software:
 
-Upon starting the script, you will be met with a simple GUI window: 
+Upon starting the [script](Not-So-FastQC.py), you will be met with a simple GUI window: 
 
 ![open](welcome_screen.png)
 
