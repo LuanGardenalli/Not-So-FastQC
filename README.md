@@ -14,9 +14,14 @@ Upon starting the [script](Not-So-FastQC.py), you will be met with a simple GUI 
 
 Use the top left button to open a fastq file. By default, the software will sample the file in order to provide faster results. You can turn this off by checking the "bypass data reduction" checkbox. This will provide more accurate results, but will take a much longer time to compute.
 
-Once a file is open, you see will see basic statistics about the file, and tabs with the data plots:
+Once a file is open, you will see basic statistics about the file, and tabs with the data plots:
 
 ![open](open_file.png)
+
+The software will plot 6 different descriptive plots, for example:
+
+### *Per Base Sequence Quality:* A BoxWhisker plot showing the reads quality ranges:
+
 ![open](per_base_sequence_quality.png)
 
 ## Main Dependencies:
