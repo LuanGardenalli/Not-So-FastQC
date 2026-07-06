@@ -20,7 +20,8 @@ Once a file is open, you will see basic statistics about the file, and tabs with
 
 The software will plot 6 different descriptive plots, for example:
 
-### *Per Base Sequence Quality:* A BoxWhisker plot showing the reads quality ranges:
+### *Per Base Sequence Quality:* 
+A BoxWhisker plot showing the reads quality ranges:
 
 ![open](per_base_sequence_quality.png)
 
