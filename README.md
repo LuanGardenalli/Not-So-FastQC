@@ -2,7 +2,7 @@
 
 *Disclaimer: Not-So-FastQC is an independent project and is not affiliated with, officially endorsed by, or maintained by the Babraham Institute.*
 
-Programming project from my bioinformatics bachelor education, and my first ever coding project. 
+Old programming project from my bioinformatics bachelor education, and my first ever coding project. 
 
 Not-So-FastQC is a high throughput sequence data quality control software inspired by the popular [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) software. 
 
