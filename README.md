@@ -45,6 +45,11 @@ A line chart representing the proportion of the four DNA bases for each base pos
 
 ![open](screenshots/per_base_sequence_content.png)
 
+### *Per Base N Content:*
+A line chart representing the percentage of Ns for each base position.
+
+![open](screenshots/per_base_N_content.png)
+
 ### *Adapter Content:*
 A line chart representing the cumulative percentage of the proportion of the reads in which an
 adapter sequence has been detected.
